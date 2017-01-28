@@ -41,4 +41,4 @@ COPY /root /
 
 # ports and volumes
 EXPOSE 7878
-VOLUME /config /downloads /movie
+VOLUME /config /download /movie
